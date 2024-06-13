@@ -9,6 +9,6 @@ Compilation
 To compile the program, use the following command:
 
 Using the Shell to run the program; run the following code: 
-gcc -o Myprogram main.c
+gcc -o My_program main.c
 
-./Myprogram
+./My_program
